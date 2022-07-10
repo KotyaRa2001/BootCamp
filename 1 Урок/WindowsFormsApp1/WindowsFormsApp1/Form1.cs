@@ -27,7 +27,7 @@ namespace WindowsFormsApp1
         private void label1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Хм, а зачем ты нажал на меня то?",
-                "А зочем?",
+                "А ЗАЧЕМ?",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Question);
             this.Close();
